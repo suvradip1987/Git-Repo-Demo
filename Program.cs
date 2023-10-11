@@ -34,3 +34,10 @@ private int SumOfMultipleNumbers(List<int> numbers)
     }
     return sum;
 }
+
+private int CurrentTemp(Datetime dt)
+{
+    int temp;
+    // logic to calcualte current temp
+    return temp;
+}
