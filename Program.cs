@@ -20,5 +20,6 @@ private WeatherReport CurrentWeather(Datetime dt)
 {
     // weather calculation logic 
     // quick fix
+    // unit test fixing 
     return new WeatherReport();
 }
