@@ -23,3 +23,10 @@ private WeatherReport CurrentWeather(Datetime dt)
     // unit test fixing 
     return new WeatherReport();
 }
+
+private int CurrentTemp(Datetime dt)
+{
+    int temp;
+    // logic to calcualte current temp
+    return temp;
+}
