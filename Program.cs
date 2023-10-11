@@ -23,3 +23,14 @@ private WeatherReport CurrentWeather(Datetime dt)
     // unit test fixing 
     return new WeatherReport();
 }
+
+
+private int SumOfMultipleNumbers(List<int> numbers)
+{
+    var sum=0;
+    forach(var num in numbers)
+    {
+        sum=sum+num;
+    }
+    return sum;
+}
