@@ -19,5 +19,6 @@ private int SubOfTwoNumbers(int num1, int num2)
 private WeatherReport CurrentWeather(Datetime dt)
 {
     // weather calculation logic 
+    // quick fix
     return new WeatherReport();
 }
